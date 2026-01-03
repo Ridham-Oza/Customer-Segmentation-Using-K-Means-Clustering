@@ -1,10 +1,3 @@
-Perfect, Ridham 👍
-I’ll give you a **clean, short, GitHub-ready README** that **matches your notebook**, **does NOT mention RFM explicitly**, and is **safe for MentorMind + recruiters**.
-
-You can **copy-paste this directly** into `README.md`.
-
----
-
 # 📊 Customer Segmentation Using K-Means Clustering
 
 *(Unsupervised Machine Learning Project)*
